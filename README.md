@@ -1,4 +1,4 @@
-# testapp
+# Encoach
 
 An app that helps financial advisors to connect with potential customers.
 
