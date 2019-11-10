@@ -2,6 +2,8 @@
 
 An app that helps financial advisors to connect with potential customers.
 
+<img src="assets/logo.png"/>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
